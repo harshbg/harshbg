@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
+[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
+
 <!--
 **harshbg/harshbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
