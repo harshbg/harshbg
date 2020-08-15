@@ -4,6 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
 ![Views](https://komarev.com/ghpvc/?username=harshbg&color=yellow)
 
+Hi, I'm Harsh Gupta, infinitely curious and passionate Data Scientist from Houston.
 
 <!--
 **harshbg/harshbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
