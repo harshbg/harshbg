@@ -6,6 +6,14 @@
 
 Hi, I'm Harsh Gupta, infinitely curious and passionate Data Scientist from Houston.
 
+- 🔭 I’m currently working on creating quantified self <a href="https://harshgupta.com/dashboard">dashboards</a> 
+- 🌱 I’m currently learning api integration
+- 👯 I’m looking to collaborate on any pro-bono data science projects
+- 💬 Ask me about ...
+- 📫 How to reach me: <a href="https://twitter.com/harshbg">Twitter</a> 
+
+
+
 <!--
 **harshbg/harshbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
