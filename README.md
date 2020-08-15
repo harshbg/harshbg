@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshbg&hide=contribs,issues&show_icons=true)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbg" alt="harshbg" /> </p>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+
 
 
