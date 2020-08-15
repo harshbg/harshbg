@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
 [![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
+![Views](https://komarev.com/ghpvc/?username=harshbg&color=yellow)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbg&color=yellow" alt="harshbg" /> </p>
 
 <!--
