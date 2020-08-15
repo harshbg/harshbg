@@ -9,7 +9,6 @@ Hi, I'm Harsh Gupta, infinitely curious and passionate Data Scientist from Houst
 - 🔭 I’m currently working on creating quantified self <a href="https://harshgupta.com/dashboard">dashboards</a> 
 - 🌱 I’m currently learning api integration
 - 👯 I’m looking to collaborate on any pro-bono data science projects
-- 💬 Ask me about ...
 - 📫 How to reach me: <a href="https://twitter.com/harshbg">Twitter</a> 
 
 
