@@ -4,12 +4,14 @@
 [![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
 ![Views](https://komarev.com/ghpvc/?username=harshbg&color=yellow)
 
-Hi, I'm Harsh Gupta, infinitely curious and passionate Data Scientist from Houston.
+Hi, I'm **Harsh Gupta**, an infinitely curious and passionate Data Scientist based in San Jose, California.
 
-- 🔭 I’m currently working on creating quantified self <a href="https://harshgupta.com/dashboard">dashboards</a> 
-- 🌱 I’m currently learning api integration
-- 👯 I’m looking to collaborate on any pro-bono data science projects
-- 📫 How to reach me: <a href="https://twitter.com/harshbg">Twitter</a> 
+- 🔭 I’m currently experimenting with **Retrieval-Augmented Generation (RAG)** systems to enhance knowledge processing.
+- 🤖 Exploring ways to integrate **AI agentic workflows** for more efficient problem-solving.
+- 🌱 I’m diving deeper into **API integration** and learning how to leverage it for scalable AI solutions.
+- 👯 I’m open to collaborations on **pro-bono data science or AI projects**, particularly those aligned with making a social impact.
+- 📫 You can reach me on [Twitter](https://twitter.com/harshbg)!
+
 
 
 
